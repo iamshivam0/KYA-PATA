@@ -5,6 +5,7 @@ int main()
 {
     cout<<"hello ";
     cout<<"hi";
+    cout <<":)"
     return 0;
     
     
