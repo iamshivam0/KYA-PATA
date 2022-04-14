@@ -4,9 +4,10 @@ using namespace std;
 int main()
 {
     cout<<"hello ";
-    cout<<"hi";
-    cout <<":)"
+    
+    cout <<":)";
     return 0;
+    
     
     
 }
